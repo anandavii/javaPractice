@@ -12,6 +12,7 @@ This repository contains simple Java programs and their unit tests to help pract
 2. **Palindrome String** (`PalindromeString.java`)
 3. **SwappingValues** (`SwappingValues.java`)
 4. **SwappingValuesWithoutThirdVariable** (`SwappingValuesWithoutThirdVariable.java`)
+5. **CountCharacterOccurance** (`CountCharacterOccurance.java`)
 
 ---
 
