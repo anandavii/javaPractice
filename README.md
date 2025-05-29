@@ -9,6 +9,7 @@ This repository contains simple Java programs and their unit tests to help pract
 ## Table of Contents
 
 1. **Palindrome Number** (`PalindromeNumber.java`)
+2. **Palindrome String** (`PalindromeString.java`)
 
 ---
 
