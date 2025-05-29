@@ -12,9 +12,3 @@ This repository contains simple Java programs and their unit tests to help pract
 
 ---
 
-## 🚀 Usage
-
-To compile and run tests:
-
-```bash
-mvn clean test
