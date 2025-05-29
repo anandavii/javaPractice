@@ -10,6 +10,8 @@ This repository contains simple Java programs and their unit tests to help pract
 
 1. **Palindrome Number** (`PalindromeNumber.java`)
 2. **Palindrome String** (`PalindromeString.java`)
+3. **SwappingValues** (`SwappingValues.java)
+4. **SwappingValuesWithoutThirdVariable** (`SwappingValuesWithoutThirdVariable.java)
 
 ---
 
